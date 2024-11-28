@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-28 at 11 48 11_b24bc98e](https://github.com/user-attachments/assets/1a6284d9-c0ea-49fc-a945-fdde8acb2c85)### NAME : T-SURYANARAYANAN
+### NAME : T-SURYANARAYANAN
 ### REG NO: 24900450
 ### EX-03 : HALF ADDER SUBTRACTOR
 
